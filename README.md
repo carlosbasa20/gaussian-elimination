@@ -1,4 +1,4 @@
-# Gaussian Elimination CLI
+# Gaussian Elimination
 
 Python command-line program for applying Gaussian elimination to a matrix.
 
